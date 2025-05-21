@@ -50,12 +50,8 @@
 
 ---
 
-## 動作デモ・操作方法
-
-
+## 動作デモ
 
 https://github.com/user-attachments/assets/89ca20e6-c555-4d52-8688-acdf5e4c8221
-
-
 
 ---
